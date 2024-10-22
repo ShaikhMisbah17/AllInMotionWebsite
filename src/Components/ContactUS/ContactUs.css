@@ -1,11 +1,11 @@
 .contact-wrapper {
-  width: 1440px;
+  width: 100vw;
   height: 383px;
   background: #1c5bff;
 }
 
 .contact-tagline {
-  width: 1400px;
+  width: 100vw;
   height: 243px;
   margin-left: 20px;
 }
