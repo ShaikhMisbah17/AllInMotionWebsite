@@ -1,0 +1,39 @@
+.footer-wrapper {
+  width: max-content;
+  height: 172px;
+  padding: 20px 0px 0px 0px;
+  background: #f1f1f1;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.footer-wrapper-top {
+  display: flex;
+  justify-content: space-around;
+}
+
+.footer-wrapper-bottom {
+  display: flex;
+  justify-content: space-around;
+  width: 1400px;
+  height: 50px;
+}
+
+.pages {
+  color: black;
+}
+
+.bottom-line {
+  color: #b0b0b0;
+}
+
+.clutch {
+  width: 207px;
+  height: 34px;
+}
+
+.frame-icons {
+  width: 330px;
+  height: 50px;
+}

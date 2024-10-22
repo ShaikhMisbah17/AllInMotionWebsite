@@ -1,0 +1,103 @@
+.awards-wrapper {
+  width: 1400px;
+  height: 677px;
+  background: white;
+  position: relative;
+  z-index: -1;
+}
+
+.awards-tagline {
+  width: 930px;
+  height: 160px;
+  margin-left: 528px;
+  margin-top: 90px;
+  position: absolute;
+  top: -75px;
+}
+
+.awards_tagline-1 {
+  width: 652px;
+  height: 76px;
+  font-family: Inter;
+  font-size: 104px;
+  font-style: italic;
+  line-height: 93.6px;
+  letter-spacing: -0.03em;
+  color: black;
+}
+
+.awards_tagline-2 {
+  width: 659px;
+  height: 76px;
+  margin-left: 216px;
+  margin-top: -100px;
+  font-family: Inter;
+  font-size: 104px;
+  font-style: italic;
+  line-height: 93.6px;
+  letter-spacing: -0.03em;
+  color: black;
+}
+
+.awards-details {
+  width: 1364px;
+  height: 467px;
+  margin-top: -880px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.awards-leftSection {
+  font-family: Inter;
+  font-size: 24px;
+  font-weight: 400;
+  line-height: 24.01px;
+  letter-spacing: -0.03em;
+  text-align: left;
+}
+
+.A1 {
+  color: #b0b0b0;
+}
+
+.A2 {
+  color: black;
+}
+
+.award {
+  width: 400px;
+  height: 400px;
+  position: absolute;
+  margin-top: 45px;
+  left: 500px;
+}
+
+.awards-rtSection {
+  font-family: Inter;
+  font-size: 24px;
+  font-weight: 400;
+  line-height: 24.01px;
+  letter-spacing: -0.03em;
+}
+
+.category {
+  width: 177px;
+  height: 17px;
+  font-family: Inter;
+  font-size: 24px;
+  font-weight: 400;
+  line-height: 24.01px;
+  letter-spacing: -0.03em;
+  text-align: justified;
+  color: black;
+}
+
+.year {
+  font-family: Inter;
+  font-size: 24px;
+  font-weight: 400;
+  line-height: 24.01px;
+  letter-spacing: -0.03em;
+  text-align: justified;
+  color: #b0b0b0;
+}

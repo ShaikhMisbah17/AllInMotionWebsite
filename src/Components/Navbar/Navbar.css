@@ -1,0 +1,25 @@
+/* Don't mention width and text-align prop */
+header {
+  width: 100vw;
+  height: 40px;
+  background: #1c5bff;
+}
+
+.navbar {
+  display: flex;
+  margin: 0 20px;
+  justify-content: space-between;
+}
+
+p {
+  color: #ffffff;
+}
+
+h1 {
+  color: #ffffff;
+}
+
+.prj_logo {
+  margin-top: 8px;
+  width: 148px;
+}

@@ -1,0 +1,6 @@
+.coverPage_Wrapper {
+  height: 685px;
+  background-image: url("../../assets/Images/coverImg.png");
+  background-size: cover;
+  width: 100vw;
+}
