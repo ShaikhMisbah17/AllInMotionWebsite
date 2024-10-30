@@ -52,12 +52,28 @@
 }
 
 .scroll-container {
-  display: flex;
-  column-gap: 5px;
   margin-bottom: 30px;
+  overflow-x: hidden;
+  width: 100%;
+}
+
+.icon-container {
+  display: flex;
+  column-gap: 15px;
+  animation: scrollAnimation 8s linear infinite;
+  width: max-width;
 }
 
 .coursera-img {
-  width: 290px;
+  width: 270px;
   height: 201px;
+}
+
+@keyframes scrollAnimation {
+  0% {
+    transform: translateX(100vw);
+  }
+  100% {
+    transform: translateX (-100%);
+  }
 }

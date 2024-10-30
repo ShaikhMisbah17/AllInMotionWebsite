@@ -17,12 +17,13 @@ function CourseraPage() {
       <img className="no-of-clients" src={No_of_clients} alt="clients" />
       <div className="x-scroll">
         <div className="scroll-container">
-          <img className="coursera-img-ra" src={ra} alt="ra-img" />
-          <img className="coursera-img" src={coursera} alt="co-img" />
-          <img className="coursera-img" src={coursera} alt="co-img" />
-          <img className="coursera-img" src={coursera} alt="co-img" />
-          <img className="coursera-img" src={coursera} alt="co-img" />
-          <img className="coursera-img-co" src={co} alt="co-img" />
+          <div className="icon-container">
+            <img className="coursera-img" src={coursera} alt="ra-img" />
+            <img className="coursera-img" src={coursera} alt="co-img" />
+            <img className="coursera-img" src={coursera} alt="co-img" />
+            <img className="coursera-img" src={coursera} alt="co-img" />
+            <img className="coursera-img" src={coursera} alt="co-img" />
+          </div>
         </div>
       </div>
     </div>

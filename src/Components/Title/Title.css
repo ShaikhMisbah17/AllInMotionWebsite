@@ -21,37 +21,18 @@
 }
 
 .alphabet_a,
-.alphabet_m {
-  font-family: Inter;
-  font-size: 104px;
-  font-weight: 400;
-}
-
+.alphabet_m,
 .alphabet_l,
 .alphabet_o,
-.alphabet_t {
-  font-family: Inter;
+.alphabet_t,
+.alphabet_i,
+.alphabet_n {
   font-size: 104px;
-  font-weight: 400;
-}
-
-.alphabet_i {
-  font-family: Inter;
-  font-size: 104px;
-  font-weight: 400;
 }
 
 .alphabet_i-bottom {
   margin-top: 120px;
-  font-family: Inter;
   font-size: 104px;
-  font-weight: 400;
-}
-
-.alphabet_n {
-  font-family: Inter;
-  font-size: 104px;
-  font-weight: 400;
 }
 
 .rect_img {
