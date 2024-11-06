@@ -57,6 +57,10 @@
   margin-top: 468px;
 }
 
+.works-image {
+  width: 100%;
+}
+
 .project-btn {
   position: absolute;
   width: 154px;
